@@ -3,14 +3,14 @@
 
 Microsoft's Github repository for WordPad that's been archived:
 https://github.com/microsoft/VCSamples/tree/9e1d4475555b76a17a3568369867f1d7b6cc6126/VC2010Samples/MFC/Visual%20C%2B%2B%202008%20Feature%20Pack/WordPad
-
-
+<br>
+<br>
 <strong>PC World Article:</strong>
 <strong>Microsoft is killing WordPad, a mainstay since Windows 95</strong>
 Microsoft's rich Windows text editor, WordPad, is officially deprecated.
 https://www.pcworld.com/article/2052273/microsoft-marks-wordpad-for-deletion.html
-
-
+<br>
+<br>
 <strong>History</strong>
 
 An excerpt from Wikipedia:  https://en.wikipedia.org/wiki/WordPad
