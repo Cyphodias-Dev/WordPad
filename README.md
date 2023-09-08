@@ -1,6 +1,8 @@
 # WordPad
 <strong>In memory of WordPad for Windows</strong>
 
+Just a little something to say thanks for the memories.
+
 Microsoft's Github repository for WordPad that's been archived:
 https://github.com/microsoft/VCSamples/tree/9e1d4475555b76a17a3568369867f1d7b6cc6126/VC2010Samples/MFC/Visual%20C%2B%2B%202008%20Feature%20Pack/WordPad
 <br>
