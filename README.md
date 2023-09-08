@@ -7,7 +7,7 @@ https://github.com/microsoft/VCSamples/tree/9e1d4475555b76a17a3568369867f1d7b6cc
 
 <b>History</b>
 
-An Excert from Wikipedia:  https://en.wikipedia.org/wiki/WordPad
+An excerpt from Wikipedia:  https://en.wikipedia.org/wiki/WordPad
 
 "WordPad is a word processor software included with Windows 95 and later, until Windows 11. Similarly to its predecessor Microsoft Write, it is a basic word processor, positioned as more advanced than the Notepad text editor by supporting rich text editing, but with a subset of the functionality of Microsoft Word.
 
